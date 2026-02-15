@@ -1,0 +1,11 @@
+# Heavy Audio Assets
+*.wav
+*.mp3
+*.sf2
+*.flac
+*.ogg
+
+# Python/System
+__pycache__/
+*.pyc
+.DS_Store
